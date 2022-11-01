@@ -870,3 +870,10 @@ ol {
 	resize: none;
 	margin-bottom: 50px;
 }
+
+
+.contact__form2 {
+	max-width: 1320px;
+    margin: 0 auto;
+    padding: 5%;
+}

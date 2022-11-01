@@ -21,10 +21,10 @@ echo'
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact form</title>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div class="contact__form">
+    <div class="contact__form2">
         <h1>Thank you for contacting me. I will get back to you as soon as possible!</h1>
         <p class="back">Go back to the <a href="contact.html">homepage</a>.</p>
         
@@ -38,3 +38,8 @@ echo'
 
 
 ?>
+
+
+
+
+
