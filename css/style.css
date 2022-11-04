@@ -598,7 +598,7 @@ ol {
 }
 
 .slide-item img {
-	height: 430px;
+	height: 485px;
 	padding: 65px 0;
 	-webkit-transition: 0.2s;
 	-o-transition: 0.2s;
@@ -613,7 +613,7 @@ ol {
 
 .hero-text-slider {
 	text-align: center;
-	padding-top: 20px;
+	padding-top: 5px;
 	max-width: 800px;
 	margin: 0 auto;
 }
