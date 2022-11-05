@@ -33,6 +33,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-K4WMGL9');</script>
 <!-- End Google Tag Manager -->
     <meta charset="UTF-8">
+    <meta name="description" content="Commander Votre Portrait dès maintenant ! Site de dessin professionnel de portrait avec crayon ">
+	<meta name="keywords" content="nresmk, dessin, portrait, cadeau, anniversaire, نرسمك ">
+	<meta name="robots" content="index, follow">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="language" content="French">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact form</title>
