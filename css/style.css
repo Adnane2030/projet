@@ -412,7 +412,7 @@ ol {
 
 .main__menu .nav__menu>li>a {
 	position: relative;
-	font-size: 25px;
+	font-size: 18px;
 	color: #7E858B;
 	font-weight: 700;
 	padding: 5px 2px;
@@ -889,3 +889,6 @@ ol {
     margin: 0 auto;
     padding: 5%;
 }
+
+
+
